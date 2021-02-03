@@ -1,10 +1,6 @@
 
 package lab2;
 
-/**
- *
- * @author Ludwig
- */
 
 import java.math.*;
 import java.nio.charset.StandardCharsets;
